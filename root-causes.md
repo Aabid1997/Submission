@@ -8,7 +8,7 @@ Please copy-paste the final answer that you obtained from the AI for each questi
 
 **Question**: What is the underlying issue that causes this problem to occur and from which component (file) of this project does this issue originate?
 
-**Answer**: *Please fill this in*
+**Answer**: *This issue typically occurs when the tags are not being properly split and stored as an array. Instead, they might be stored as a single string, which is then displayed character by character.*
 
 
 ## Problem 2
@@ -17,5 +17,5 @@ Please copy-paste the final answer that you obtained from the AI for each questi
 
 **Question**: What is the underlying issue that causes this problem to occur and from which component (file) of this project does this issue originate?
 
-**Answer**: *Please fill this in*
+**Answer**: *This issue could be due to the tags not being saved correctly in the database or not being fetched correctly when the home page is loaded.*
 
